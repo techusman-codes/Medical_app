@@ -1,0 +1,1 @@
+ C:\\Users\\Usman\ Umar\ Garba\\Desktop\\FLUTTER\\Flutter\ Codes\\medical_appointment_app\\.dart_tool\\flutter_build\\379e5ad3989cfb7596c4326d2ae7d76a\\native_assets.yaml: 
